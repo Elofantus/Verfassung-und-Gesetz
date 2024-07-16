@@ -1,0 +1,28 @@
+body{
+    margin-top: 0px;
+    padding: 0px;
+    font-family: Arial, sans-serif;
+}
+
+h1{
+    color: #479B90;
+    text-align: center;
+}
+
+.cont{
+    position: fixed;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #479B90;
+    width: 95vw;
+    background: white;
+    margin: 0;
+    padding: 0;
+}
+
+h2{
+    color: #479B90;
+}
+
+p{
+    margin: 5px 5px 5px 10px;
+}
